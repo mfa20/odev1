@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: #952323;
+}
+nav{
+    height: 50px;
+    text-align: center;
+    background-color: #CAEDFF;
+    font-size: larger;
+    padding-top: 30px;
+}
+body{
+    background-color: #94A684;
+}
+.urun{
+    text-align: center;
+}
+h2{
+    color: #952323;
+}
